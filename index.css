@@ -1,0 +1,674 @@
+body
+{   background-color: #E6E6E6;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.home1
+{
+    background-color: #00AEEF; 
+    width:932px;
+    Height:488px;
+    /*left: 14px;*/
+}
+.home
+{   width: 37px;
+    height:10px;
+    /*width: 39px;
+    height:11px;*/
+    margin-top:5px;
+}
+.left
+{
+    display: flex;
+    
+    gap:35px;
+}
+.logo
+{   
+    width: 50px;
+    height:15px;
+}
+.landings
+{width: 80px;
+    height:20px;
+    margin-top: 2px;
+}
+.link
+{width: 47px;
+    height:20px;
+    margin-top: 4px;
+}
+.doc
+{   width: 25px;
+    height:11px;
+   margin-top:8px;
+}
+.help
+{  width: 30px;
+    height: 13px;
+    margin-top: 9px;
+}
+.login
+{   width:85px;
+    height:29px;
+}
+.page
+{   margin-top: 30px;
+    display: flex;
+    gap:20px;
+}
+.entete
+{   
+    display:flex;
+    gap: 250px;
+    justify-content:space-around;
+}
+.titregauche
+{
+    margin-top: 20px;
+    margin-left:50px;
+}
+span
+{
+    color: white;
+    font-weight: bold;
+}
+.titredroite
+{   margin-top: 20px;
+    margin-right: 40px;
+    gap:35px;
+    display: flex;
+}
+.rectfilecover
+{
+    background-color:rgba(199, 241, 255, 1);
+    Width:720px;
+    Height:518px;
+   display: flex;
+}
+.img1
+{
+    Width:300px;
+    Height:483px;
+    margin-top: 35px;
+    margin-left: 70px;
+}
+.img2
+{
+    Width:170px;
+    Height:518px;
+    margin-right:80px;
+}
+.corps
+{ 
+   margin-top: 80px;
+   display: flex;
+ 
+}
+.texte
+{
+    font-size: 20px;
+    font-weight: 100px;
+}
+.imgdroite
+{
+    width:600px;
+    height:622px;
+    margin-top: -53px;
+}
+.grtitre
+{
+    width: 340px;
+    height: 140px;
+}
+.titre
+{
+    display: flex;
+    flex-direction: column;
+    margin-left:80px;
+}
+.vector
+{
+    Width:176.27px;
+    Height:50.92px;
+}
+p
+{
+    color: white;
+    margin: 0px;
+}
+.parag
+{
+    margin-top: 20px;
+}
+h3
+{
+    color: rgba(0, 168, 219, 1);
+    text-align: center;
+    font-size:13px;
+    margin-top: 5px;
+}
+.RGT
+{
+    width:115px;
+    height:25px;
+   
+}
+.bas
+{   margin-top:15px;
+    display: flex;
+    gap:10px;
+}
+.rect
+{
+    width: 137px;
+    height:25px;
+    background-color:white;
+}
+.rect:hover
+{
+    scale:1.2;
+    cursor:pointer;
+}
+.login:hover
+{
+    scale:1.2;
+    cursor:pointer;
+}
+.partiedeman
+{
+    display: flex;
+    flex-direction: column;
+}
+.rectan2
+{  background-color: white;
+    width:932px;
+    Height:1040px;
+    display: flex;
+    flex-direction: column;
+}
+.tout
+{
+    margin-left:40px;
+    /*margin-right:40px;*/
+}
+.top
+{   width: 690px;
+    height: 19px;
+    margin-top: 25px;
+    margin-left: 130px;
+}
+.centre
+{
+   margin-top: 125px;
+   display: flex;
+   gap: 125px;
+   margin-left: 80px;
+}
+.mobile
+{
+    width: 300px;
+    height: 325px;
+}
+.vector1
+{   margin-top:25px;
+    width: 365px;
+    height: 442px;
+    margin-right: -355px;
+}
+.partie1
+{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-direction:start;
+}
+.partie2
+{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
+.Measure
+{ width: 220px;
+}
+.prect2
+{
+    color:rgba(144, 163, 180, 1);
+    font-size: 15px;
+    line-height: 30px;
+}
+.learn
+{
+    width: 130px;
+    height: 18px;
+}
+.pied
+{
+   display:flex;
+   margin-left: 70px;
+   margin-top: 30px;
+   gap:35px;
+}
+.piedgauche
+{   display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.pieddroite
+{
+    width:453px;
+  height: 300px;
+  margin-top:10px;
+}
+h2 {
+    font-size: 22px;
+    color: rgba(3, 77, 130, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+  }
+  .verify
+  {
+    width:16px;
+    height:20px;
+  }
+  .elem
+  {
+    display:flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .pfin
+  {
+    color: rgba(4, 170, 221, 1);
+    font-weight: bold;
+  }
+  .fin
+  {
+    display: flex;
+    align-items: center;
+    gap:5px;
+  }
+  .fleche
+  {
+    width: 17px;
+    height: 10px;
+  }
+  .rect3
+  {   width:932px;
+    Height:420px;
+    background-color:#DFF1F8;
+  }
+  .titrerect3
+  {
+    text-align: center;
+  }
+  .t1
+  {
+    font-size: 26px;
+    line-height: 52px;
+    letter-spacing: 0.3px;
+    color: rgba(3, 77, 130, 1);
+    font-family:system-ui;
+  }
+  .prect3
+  {
+    color:rgba(144, 163, 180, 1);
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .suite
+  {  justify-content: space-evenly;
+    display: flex;
+    margin-top: 45px;
+  }
+  .elem1
+  {
+    display: flex;
+    flex-direction: column;
+    width: 163px;
+    height: 190px;
+    background-color:white;
+    border-radius: 5px;
+  }
+  .simg
+  { margin-top: 15px;
+    margin-left: 15px;
+    width: 36px;
+    height: 36px;
+  }
+  h4
+  {
+    color: rgba(3, 77, 130, 1);
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 0.9px;
+    margin-top: 8px;
+    font-family: system-ui;
+    margin-left: 10px;
+    margin-bottom: 0px;
+  }
+  .s
+  {
+    line-height: 28px;
+    margin-top: 8px;
+  }
+  .d
+  {
+    margin-top: -12px;
+    margin-bottom: 0px;
+  }
+  .hu4
+  {
+    color: rgba(3, 77, 130, 1);
+    font-size: 12px;
+    letter-spacing: 0.9px;
+    font-family: system-ui;
+    margin-left: 10px;
+  }
+  .psuite
+  {
+    color:rgba(144, 163, 180, 1);
+    font-size: 13px;
+    line-height: 20px;
+    margin-left: 10px;
+  }
+  .rectan4
+  {
+    width:932px;
+    Height:770px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+  }
+  .debrect4
+  {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 140px;
+  }
+  .section1
+  { display: flex;
+    flex-direction: column;
+  }
+  .h2rect4
+  {
+    font-size: 22px;
+    color: rgba(3, 77, 130, 1);
+    font-family:'Inter', sans-serif;
+    margin: 0px;
+  }
+  .prect4
+  {
+    color:rgba(144, 163, 180, 1);
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .trait
+  {
+    width: 24px;
+    height: 22px;
+  }
+  .col1
+  {
+    display: flex;
+    flex-direction:column;
+    gap: 110px;
+  }
+  .fg
+  {
+    width:7px;
+    height:10px;
+    margin-left: -30px;
+  }
+  .star
+  {
+    width:12px;
+    height:12px;
+  }
+  .etoiles
+  {
+    display: flex;
+    gap: 4px;
+  }
+  .col2
+  {
+    display: flex;
+    flex-direction: column;
+    margin-top: 11px;
+    gap: 10px;
+  }
+  .section2
+  {
+    display: flex;
+    gap: 7px;
+  }
+.dr
+{
+  font-style: italic;
+  font-size: 13px;
+    margin-bottom: -6px;
+}
+.art
+{
+  display: flex;
+  gap: 10px;
+}
+.Jack
+{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.h3jack
+{
+  color: rgba(3, 77, 130, 1);
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin: 0px;
+ text-align:start;
+
+}
+.ecrit
+{
+  display: flex;
+  flex-direction: column;
+}
+.digi
+{
+  font-size:12px;
+  color:rgba(144, 163, 180, 1);
+    line-height: 30px;
+}
+.fd
+{
+  width:7px;
+  height:10px;
+}
+.cerclebleu
+{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-top: 13px;
+  margin-left: 56px;
+  background-color:rgba(3, 77, 130, 1); 
+}
+.fd
+{
+  width: 22px;
+  height: 14px;
+  margin-top: 2.5px;
+ 
+}
+.dernpartie
+{
+  display: flex;
+  gap: 4px;
+  margin-top: 5px;
+}
+.minicercle
+{
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+}
+.B
+{
+  background-color:rgba(3, 77, 130, 1); 
+}
+.G
+{
+  background-color:rgba(144, 163, 180, 1);
+}
+.finrect4
+{ margin-left: 130px;
+  width:670px;
+  height:240px;
+  background-color:rgba(9, 189, 221, 1);
+  border-radius: 6px;
+  display: flex;
+  gap: 40px;
+}
+.fh2
+{
+font-size: 22px;
+color: rgba(255, 255, 255, 1);
+}
+.recgauche
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.pfrect4
+{
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+letter-spacing: 0.3px;
+
+}
+.accounts
+{ margin-top:10px;
+  display: flex;
+}
+.acc
+{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.c1
+{
+  margin-left: -10px;
+}
+.f
+{
+  margin-top:7px;
+  margin-left: 4px;
+}
+.arc1
+{
+  width: 275px;
+  height: 240px;
+  margin-left: 118px;
+  position: relative;
+  z-index:0;
+}
+.rectangleblanc
+{
+  height:50px;
+  width: 150px;
+  background-color: white;
+  border-radius:5px;
+  position: absolute;
+  z-index: 1;
+  margin-top: 87px;
+  margin-left: 186px;
+}
+.bh3
+{
+  color:rgba(0, 184, 217, 1);
+   font-size: 16px;
+  line-height: 100%;
+   letter-spacing: 0.3px;
+  text-align: center;
+  margin-top: 14px;
+}
+.recdroite
+{
+  display: flex;
+
+}
+.rectan5
+  {
+    width:932px;
+    Height:570px;
+    background-color: rgba(8, 19, 21, 1); 
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+  }
+  .haut5
+  { margin-top: 80px;
+    margin-left: 90px;
+    display: flex;
+    gap: 40px;
+  }
+  .column
+  {
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+  }
+  .logo1
+  {
+    width: 80px;
+    height:25px;
+  }
+  .p5
+  {
+    font-size: 14px;
+    font-family: Roboto;
+    color:rgba(211, 214, 216, 1);
+    
+  }
+  .PG
+  {
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'MorePro', sans-serif;
+  }
+  .cercN
+  {
+    display: flex;
+    gap: 5px;
+  }
+  .minicercN
+  {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #333333;
+  }
+  .icone1
+  {
+    height: 35px;
+    width: 35px;
+  }
+  .icone
+  {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .bas5
+  {
+    margin-left: 340px;
+  }
